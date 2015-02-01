@@ -1,0 +1,61 @@
+body {
+  background: #eacbb1;
+  color: white;
+  font-size: 20px;
+  font-family: 'Lato', sans-serif;
+}
+
+h1 {
+  text-transform: uppercase;
+  margin-top: 1em;
+  margin-left: 1em;
+  padding: 0.25em;
+  font-size: 40px;
+}
+
+.user-form {
+  width: 600px;
+  margin: 2em;
+  /*border: 1px solid grey;*/
+  padding: 2em;
+  background: #adda9a;
+  border-radius: 0.25em;
+}
+
+
+.community {
+  float: right;
+}
+
+li {
+  padding: 0.5em;
+}
+
+label {
+  display: block;
+}
+
+.inputs {
+  margin-top: 0.5em;
+  padding: 0.5em;
+  border-radius: 0.25em;
+}
+
+span {
+  float: right;
+  margin: 0.5em;
+  width: 0;
+  height: 0;
+}
+
+button {
+  background: white;
+  color: grey;
+  font-size: 1em;
+  margin-top: 1em;
+  margin-left: 0.5em;
+  border: 0;
+  padding: 0.5em;
+  border-radius: 0.25em;
+  text-transform: uppercase;
+}
